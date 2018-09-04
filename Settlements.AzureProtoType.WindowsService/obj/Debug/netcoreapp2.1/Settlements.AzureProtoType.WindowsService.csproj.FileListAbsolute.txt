@@ -1,0 +1,15 @@
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.deps.json
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.runtimeconfig.json
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.runtimeconfig.dev.json
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.dll
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.pdb
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.dll
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.pdb
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\obj\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.csprojAssemblyReference.cache
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\obj\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.csproj.CoreCompileInputs.cache
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\obj\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.AssemblyInfoInputs.cache
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\obj\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.AssemblyInfo.cs
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\obj\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.csproj.CopyComplete
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\obj\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.dll
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\obj\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.pdb
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzureProtoType.WindowsService\bin\Debug\netcoreapp2.1\Settlements.AzureProtoType.WindowsService.dll.config

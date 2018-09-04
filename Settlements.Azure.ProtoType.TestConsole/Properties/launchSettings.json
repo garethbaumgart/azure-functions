@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Settlements.Azure.ProtoType.TestConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "add"
+    }
+  }
+}

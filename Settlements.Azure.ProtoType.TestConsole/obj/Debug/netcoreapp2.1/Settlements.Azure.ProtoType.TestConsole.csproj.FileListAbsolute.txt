@@ -1,0 +1,12 @@
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\bin\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.deps.json
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\bin\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.runtimeconfig.json
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\bin\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.runtimeconfig.dev.json
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\bin\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.dll
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\obj\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\obj\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.AssemblyInfoInputs.cache
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\obj\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.AssemblyInfo.cs
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\bin\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.pdb
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\obj\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.dll
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\obj\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.pdb
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\bin\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.dll.config
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.Azure.ProtoType.TestConsole\obj\Debug\netcoreapp2.1\Settlements.Azure.ProtoType.TestConsole.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\bin\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.deps.json
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\bin\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.dll
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\bin\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.pdb
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\obj\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.csproj.CoreCompileInputs.cache
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\obj\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.AssemblyInfoInputs.cache
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\obj\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.AssemblyInfo.cs
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\obj\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.dll
+c:\users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\obj\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.pdb
+C:\Users\gareth.baumgart\source\repos\Settlements.AzureProtoType\Settlements.AzurePrototyp.Business\obj\Debug\netcoreapp2.1\Settlements.AzurePrototyp.Business.csprojAssemblyReference.cache
